@@ -9,11 +9,17 @@
     color: #0D1321;
 }
 
+
 .page-title{
     font-weight: 800;
     font-size: 32px;
 }
 
+.all-content{
+    width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
 
 .txt-align{
     text-align: center;
@@ -85,9 +91,9 @@ nav li{
 
 /* Second Section..................................... */
 .second-body{
-    margin: 50px 100px;
-    padding: 97px 80px;
     width: 1140px;
+    margin: 0 auto;
+    padding: 97px 80px;
     display: flex;
     flex-direction: column;
     gap: 48px;
@@ -98,6 +104,8 @@ nav li{
 }
 
 .development{
+    margin-top: 100px;
+    margin-bottom: 100px;
     text-align: center;
     background-color: #f9f5f5;
 }
@@ -138,4 +146,14 @@ nav li{
     align-items: center;
     justify-content: space-between;
     gap: auto;
+}
+
+/* Third Section........................................ */
+.video{
+    padding: 10px;
+    background-color: #f9f5f5;
+}
+
+.inspiration{
+    margin-bottom: 150px;
 }
