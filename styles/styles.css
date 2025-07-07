@@ -9,6 +9,12 @@
     color: #0D1321;
 }
 
+.page-title{
+    font-weight: 800;
+    font-size: 32px;
+}
+
+
 .txt-align{
     text-align: center;
     margin-top: 32px;
@@ -74,4 +80,62 @@ nav li{
     border-radius: 10px;
     font-size: 20px;
     border: none;
+}
+
+
+/* Second Section..................................... */
+.second-body{
+    margin: 50px 100px;
+    padding: 97px 80px;
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+.second-section{
+    text-align: center;
+}
+
+.development{
+    text-align: center;
+    background-color: #f9f5f5;
+}
+
+
+.second-body-boxes{
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+
+.box-title{
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.mid-box{
+    gap: 32px;
+}
+
+.box-btn{
+    padding: 20px 12px;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Azeret Mono", monospace;
+    margin-top: 32px;
+}
+
+.box-text{
+    text-align: left;
+}
+
+.box-content{
+    background-color: white;
+    padding: 48px 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: auto;
 }
