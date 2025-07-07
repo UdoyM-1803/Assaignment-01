@@ -9,6 +9,10 @@
     color: #0D1321;
 }
 
+.header{
+    margin-bottom: 48px;
+}
+
 
 .page-title{
     font-weight: 800;
@@ -156,4 +160,43 @@ nav li{
 
 .inspiration{
     margin-bottom: 150px;
+}
+
+/* Fourth Section........................................... */
+.fourth-section{
+    margin-bottom: 111px;
+}
+
+.skills-html{
+    background-color: #efeae9;
+    text-align: left;
+    padding: 40px;
+}
+
+.skills-css{
+    background-color: #d7deed;
+    text-align: left;
+    padding: 40px;
+}
+
+.skills-js{
+    background-color: #f5f3e8;
+    text-align: left;
+    padding: 40px;
+}
+
+.target-skills{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    border-radius: 10px;
+}
+
+.skill-title{
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.skills-link{
+    font-weight: bold;
 }
