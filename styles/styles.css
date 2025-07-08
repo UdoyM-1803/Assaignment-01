@@ -200,3 +200,67 @@ nav li{
 .skills-link{
     font-weight: bold;
 }
+
+
+/* Fifth Content........................................... */
+.fifth-section{
+    margin-bottom: 100px;
+}
+
+.fifth-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.fifth-boxes{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+
+/* Sixth Section............................................ */
+.sixth-section{
+    background-image: url(../assets/handshake.jpg);
+    padding: 48px 64px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.sixth-page-title{
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+.sixth-para{
+    color: white;
+}
+
+.form-message{
+    font-size: 16px;
+    width: 550px;
+    padding: 20px 19px;
+    color: #131B2E;
+    border-radius: 10px;
+    border: none;
+}
+
+.form-button{
+    font-family: "Azeret Mono", monospace;
+    width: 120px;
+    height: 60px;
+    padding: 20px 17px;
+    color: #0D1321;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.feedback-form{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
