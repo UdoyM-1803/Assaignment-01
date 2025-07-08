@@ -227,6 +227,9 @@ nav li{
 /* Sixth Section............................................ */
 .sixth-section{
     background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     padding: 48px 64px;
     border-radius: 10px;
     margin-bottom: 100px;
@@ -240,6 +243,7 @@ nav li{
 
 .sixth-para{
     color: white;
+    margin-bottom: 50px;
 }
 
 .form-message{
