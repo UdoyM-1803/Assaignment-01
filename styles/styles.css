@@ -262,5 +262,9 @@ nav li{
 .feedback-form{
     display: flex;
     gap: 5px;
-    align-items: center;
+    justify-content: center;
 }
+
+
+/* Footer Section...................................... */
+
