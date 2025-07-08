@@ -267,4 +267,25 @@ nav li{
 
 
 /* Footer Section...................................... */
+footer{
+    background-color: #f9f5f5;
+    width: 100%;
+}
 
+.footer-title{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.footer-icon{
+    display: flex;
+    gap: 24px;
+    height: 36px;
+    align-items: center;
+}
+
+.seventh-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
