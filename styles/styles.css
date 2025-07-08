@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 
 .azeret-mono-noraml {
   font-family: "Azeret Mono", monospace;
